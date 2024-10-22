@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "incremental": true,
+    "outDir": "dist",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "target": "esnext"
+  },
+  "exclude": ["node_modules", "dist", "**/*.test.ts"]
+}
